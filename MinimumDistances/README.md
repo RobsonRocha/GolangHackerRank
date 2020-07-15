@@ -1,0 +1,1 @@
+https://www.hackerrank.com/challenges/minimum-distances/problem?h_r=internal-search
